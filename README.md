@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Umer86
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently working on Pyspark
-- 💞️ I’m looking to collaborate on apache Kafka, apache Spark, automation
+- 🌱 I’m currently working and learning Machine Learning
+- 💞️ I’m looking to collaborate on apache Kafka, apache Spark, automation, data analysis
 - 📫 How to reach me? 
 - ufm594@gmail.com
 - umerfarooq.akaufm@gmail.com
