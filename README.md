@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Umer86
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently working and learning Machine Learning
-- 💞️ I’m looking to collaborate on apache Kafka, apache Spark, automation, data analysis
+- 👀 Passionate about Big Data and Cloud Data Engineering Tools and Technologies
+- 🌱 MSDS @ Air University
+- 💞️ I’m looking to collaborate Big data & Cloud Data Engineering projects
 - 📫 How to reach me? 
 - ufm594@gmail.com
-- umerfarooq.akaufm@gmail.com
+- +923109897061
 
 <!---
 Umer86/Umer86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
