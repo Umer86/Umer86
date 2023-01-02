@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Umer86
 - 👀 Passionate about Big Data and Cloud Data Engineering Tools and Technologies
-- 🌱 MSDS @ Air University
-- 💞️ I’m looking to collaborate Big data & Cloud Data Engineering projects
+- 💞️ I’m looking to collaborate on Big data & Cloud Data Engineering projects
 - 📫 How to reach me? 
 - ufm594@gmail.com
 - +923109897061
